@@ -1,0 +1,126 @@
+/* Resume CSS Styling */
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #34495e;
+    --accent-color: #3498db;
+    --text-color: #333;
+    --light-gray: #7f8c8d;
+}
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: var(--text-color);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header / Name */
+h1 {
+    font-size: 28pt;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+    margin-top: 0;
+    border-bottom: 3px solid var(--accent-color);
+    padding-bottom: 10px;
+}
+
+/* Section Headers */
+h2 {
+    font-size: 14pt;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Job Titles / Subsection Headers */
+h3 {
+    font-size: 12pt;
+    font-weight: 600;
+    color: var(--secondary-color);
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+
+/* Paragraphs */
+p {
+    margin: 8px 0;
+}
+
+/* Lists */
+ul {
+    margin: 5px 0 10px 0;
+    padding-left: 20px;
+}
+
+li {
+    margin: 4px 0;
+}
+
+/* Emphasis (for dates, locations) */
+em {
+    color: var(--light-gray);
+    font-style: italic;
+    font-size: 10pt;
+}
+
+strong {
+    font-weight: 600;
+    color: var(--secondary-color);
+}
+
+/* Links */
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Contact info (if using a div or paragraph) */
+.contact-info {
+    text-align: center;
+    margin-bottom: 15px;
+    color: var(--light-gray);
+}
+
+/* Print-specific styles */
+@media print {
+    body {
+        padding: 0;
+        max-width: 100%;
+    }
+    
+    h1 {
+        page-break-after: avoid;
+    }
+    
+    h2, h3 {
+        page-break-after: avoid;
+    }
+    
+    ul {
+        page-break-inside: avoid;
+    }
+}
+
+/* Compact spacing for professional look */
+h2 + h3 {
+    margin-top: 8px;
+}
+
+h3 + p em {
+    display: block;
+    margin-bottom: 5px;
+}

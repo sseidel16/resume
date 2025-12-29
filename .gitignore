@@ -1,0 +1,21 @@
+# Generated output files
+output/
+*.pdf
+*.html
+*.docx
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
