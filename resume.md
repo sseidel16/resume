@@ -1,6 +1,5 @@
 ---
 name: Stephen Seidel
-title: Senior Software Development Engineer, Tech Lead
 email: stephen.a.seidel@gmail.com
 phone: (520) 840-5431
 location: Phoenix, AZ
@@ -8,6 +7,8 @@ linkedin: linkedin.com/in/stephen-seidel
 ---
 
 # Stephen Seidel
+
+Phoenix, AZ | (520) 840-5431 | stephen.a.seidel@gmail.com | [linkedin.com/in/stephen-seidel](https://linkedin.com/in/stephen-seidel)
 
 ## Summary
 
