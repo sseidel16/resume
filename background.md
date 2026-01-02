@@ -32,7 +32,12 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 
 ### Associate of Science
 - **Institution**: Central Arizona College
-- **GPA**: 4.0
+- **Graduation**: May 2015
+- **GPA**: 4.0 / 4.0
+- **Honors Program**: Participated in honors program, earning award for single Outstanding Honors Student
+- **Tutoring**: Worked as tutor for programming (C++, Visual Basic, Java, MATLAB) and mathematics
+  - Only tutor for higher-level math classes including Calculus I, II, III and Differential Equations
+  - Provided GED prep tutoring for students who dropped out of high school but needed high-school diploma
 
 ### Self-Taught Foundation (Early Years)
 - Started programming at age 12 with Yabasic, Java, C, and C++
