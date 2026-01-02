@@ -94,18 +94,28 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 ### Engineer II
 **American Express | January 2019 - February 2020**
 
-- Developed and presented data versioning software using Netflix Hollow and gRPC
-- Head developer for enterprise data distribution framework for loading and caching data in memory for clients
-- Full-stack development in enterprise environment
+- Head developer for enterprise data distribution framework supporting new microservices network
+  - Lightweight software library ran on microservice containers, loaded versioned financial metadata updates
+  - Implemented differential loading (only diffs on updates) for efficiency
+  - Built ultra-efficient in-memory cache providing microsecond-level access to financial metadata
+  - Containers accessed metadata through library cache without managing updates themselves
+  - Strict versioning ensured requests for specific versions would fail rather than use stale data
+- Presented data versioning software using Netflix Hollow and gRPC to engineering leadership, who subsequently adopted the framework for deployment at scale across their new microservices network
 
 ### Technology Intern
 **American Express | June 2018 - August 2018**
 
-- Developed GraphQL servers in Spring Boot, Node.js, and Vert.x to compare performance
-- Developed Angular front-end code for new pages and to make GraphQL calls using the Apollo GraphQL client
-- Provided GraphQL training session for company developers
-- Externalized business rules using Drools and decision tables and demonstrated a proof-of-concept
-- Developed React front-end code and integrated React code into an existing Angular environment
+- Worked on architecture team during company-wide rollout of standardized React framework for UI design
+- Solved critical migration challenge for commercial division's legacy Angular UIs (too clunky and large for full rewrite):
+  - Developed unique approach to incrementally replace individual Angular components with company's React framework components
+  - Rebuilt portions of company React framework to function within partial Angular environment
+  - Enabled gradual migration one component at a time without disrupting live site
+  - Demonstrated solution with several production site components
+- Converted multiple APIs from REST to GraphQL where appropriate, compared performance across Spring Boot, Node.js, and Vert.x implementations
+- Developed GraphQL implementations and trained company developers through training session
+- Presented improvements and migration strategy to engineering leadership
+- Externalized business rules using Drools and decision tables as proof-of-concept
+- Work received extremely well, leading to return offer
 
 ### Research Aide
 **Arizona State University | May 2017 - December 2018 | Tempe, AZ**
@@ -119,14 +129,27 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 ### Technology Intern
 **American Express | June 2017 - August 2017**
 
-- Developed several APIs using Spring Boot, including unit testing using Spring Test, cucumber scripting to support BDD, integration testing using Rest Assured, mutation testing using PIT, performance testing using JMeter, and documentation using Swagger
-- Created a caching solution using Redis and Spring Boot
+- Worked in commercial/business cards division as part of architecture team, modernizing legacy Spring codebase with outdated testing principles
+- Rewrote multiple APIs in Spring Boot, demonstrating how much existing boilerplate Java code could be eliminated with Spring Boot and modern frameworks
+- Implemented state-of-the-art testing capabilities including:
+  - Unit testing using Spring Test
+  - BDD with Cucumber scripting
+  - Integration testing using Rest Assured
+  - Mutation testing using PIT
+  - Performance testing using JMeter
+  - API documentation using Swagger
+- Created Redis caching solution integrated with Spring Boot, addressing cache invalidation challenges
+- Work received extremely positively by division leadership, leading to return offer which I declined to pursue a Masters degree
 
 ### Intern
 **Fast Enterprises | May 2016 - August 2016**
 
-- Worked closely with city employees to support the tax software system used by the city
-- Redesigned the Business Registration portion of the tax software system in Kansas City to make it easier for both online taxpayers and city employees to use
+- Met with employees at Kansas City, MO City Hall to understand pain points in their tax software system workflow
+- Completely redesigned enterprise software pages for city business registration:
+  - Replaced old clunky UI with step-by-step wizard guide asking minimal questions
+  - Implemented intelligent auto-pull of data based on previous answers, eliminating tedious manual entry for city employees
+  - Improved experience for both online taxpayers and city staff
+- Work received very well, leading to return offer
 
 ### Intern
 **SolutionStart Technologies | May 2015 - August 2015**
