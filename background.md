@@ -53,24 +53,33 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
   - Implemented guardrails and streamed responses
   - Now serving 3M+ messages weekly with 200K+ AI interactions
 - Created secure file upload system with end-to-end encryption
-  - Isolated containers for each upload
-  - Intelligent detection for images/videos/audio
+  - Isolated containers for each upload with pre-warmed pools for latency optimization
+  - Intelligent detection and mapping for images/videos/audio using separate algorithm-controlled warming
+  - Controls role access by internal company employees to download final mapped customer files
+  - Implemented end-to-end envelope encryption on customer files from browser to internal systems
   - Security as a core design principle, not an afterthought
 - Own multiple internal full-stack tools including dashboards, IVR microservices, and employee performance suite
 - Balance technical roadmap ownership with mentoring engineers
 - Lead multiple product initiatives simultaneously
 
-### Software Development Engineer II, Tech Lead
+### Software Development Engineer, Tech Lead
 **Amazon (Ring) | February 2020 - April 2023 | Phoenix, AZ**
 
-- Tech lead role guiding technical decisions for 4 engineers across full-stack applications
-- Led development of customer communication platforms
-- Established team technical standards and best practices
-- Mentored engineers on system design and implementation
-- Developed microservices for Ring ecosystem
-- Built full-stack features for customer-facing applications
-- Implemented REST APIs and GraphQL services
-- Worked on distributed systems and cloud infrastructure
+- **Chat Platform Development** - Owned Ring's first in-house chat platform end-to-end:
+  - Designed and built customer-facing chat UI using React
+  - Architected AWS backend infrastructure including Lambda, API Gateway, DynamoDB
+  - Developed agent control panel and concurrent chat UI for customer support representatives
+  - Head developer responsible for all architectural decisions on greenfield project
+- Tech lead starting April 2021, guiding technical decisions for team of 4 engineers across full-stack applications
+- **Application Security Certifier** (April 2021 - April 2023) - Ran security certifications for critical Ring and Alexa systems:
+  - Ring Marlin camera firmware - discovered and eliminated multiple buffer overflow vulnerabilities
+  - Alexa Bluetooth firmware libraries on IoT devices
+  - Alexa target determination services (responsible for determining which Alexa device to trigger)
+- Built phone callback application enabling customers to receive calls from Ring support
+- Established team technical standards and best practices for full-stack development
+- Mentored engineers on system design, AWS architecture, and React best practices
+- Developed microservices for Ring ecosystem using Node.js, TypeScript, and AWS CDK
+- Implemented REST APIs and GraphQL services for customer communication platforms
 
 ### Software Developer
 **Prognos Trading LLC | March 2019 - August 2019**
@@ -97,6 +106,15 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 - Provided GraphQL training session for company developers
 - Externalized business rules using Drools and decision tables and demonstrated a proof-of-concept
 - Developed React front-end code and integrated React code into an existing Angular environment
+
+### Research Aide
+**Arizona State University | May 2017 - December 2018 | Tempe, AZ**
+
+- Conducted wireless network performance research and modeling using locating arrays
+- Developed, tested, and optimized a software suite (C code) to build minimal locating arrays
+- Expanded software suite to find relevant factors, and interactions between factors, relating to network performance
+- Published 3 papers as primary author at IEEE INFOCOM, IWOCA, and SpringSim conferences
+- Research directly contributed to Master's thesis on locating arrays construction, analysis, and robustness
 
 ### Technology Intern
 **American Express | June 2017 - August 2017**
@@ -125,6 +143,14 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 - Worked daily with many different students with varying degrees of technological ability
 - Taught programming techniques and languages including C++, Visual Basic, Java and MATLAB
 - Tutored mathematics courses through Calculus III and Differential Equations
+
+### IT Intern
+**SXP Analytics | Summer 2011**
+
+- First tech internship at a high-frequency trading company
+- IT responsibilities included tracing network cables, building computer hardware, writing scripts to translate internal wikis
+- Too young to receive monetary payment, compensated with high-end laptop (8GB RAM, 500GB storage, latest-gen i7, good graphics card, valued over $2000)
+- Never accessed trading algorithms (not trusted to intern), but gained exposure to high-frequency trading environment
 
 ## Technical Skills
 
