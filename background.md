@@ -63,9 +63,9 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
   - Controls role access by internal company employees to download final mapped customer files
   - Implemented end-to-end envelope encryption on customer files from browser to internal systems
   - Security as a core design principle, not an afterthought
-- Own multiple internal full-stack tools including dashboards, IVR microservices, and employee performance suite
+- Own multiple internal full-stack tools including the chat service, secure file upload, metrucs dashboards, IVR microservices, and employee performance suite
 - Balance technical roadmap ownership with mentoring engineers
-- Lead multiple product initiatives simultaneously
+- Lead the multiple product initiatives above simultaneously
 
 ### Software Development Engineer, Tech Lead
 **Amazon (Ring) | February 2020 - April 2023 | Phoenix, AZ**
@@ -159,11 +159,13 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 ### Intern
 **SolutionStart Technologies | May 2015 - August 2015**
 
-- Constructed, deconstructed, recovered, imaged and reimaged PCs
-- Developed a desktop application to run in the tray of customers' PCs and improve their experience by allowing them to quickly submit service requests
-- Routinely set up servers, routers and firewalls
-- Notable memory: Received laptop as part of compensation (i7 processor, 8GB RAM, valued at $2000+)
-- Company eventually went bankrupt
+- Worked for IT solutions provider managing software and systems for dental offices
+- Developed desktop tray application using C#, .NET, and Visual Studio:
+  - Enabled dental offices to open support cases directly from system tray with automatic diagnostic information
+  - Eliminated need for dental staff to call support phone lines for common issues
+  - Sped up issue resolution and freed up phone support resources
+- Constructed, deconstructed, recovered, imaged and reimaged PCs for dental office deployments
+- Routinely configured and deployed servers, routers, and Fortinet firewalls for client sites
 
 ### Math and Technology Tutor
 **Central Arizona College | August 2014 - May 2015**
@@ -176,8 +178,10 @@ Senior Software and Systems Engineer with 15+ years of coding experience, curren
 **SXP Analytics | Summer 2011**
 
 - First tech internship at a high-frequency trading company
-- IT responsibilities included tracing network cables, building computer hardware, writing scripts to translate internal wikis
-- Too young to receive monetary payment, compensated with high-end laptop (8GB RAM, 500GB storage, latest-gen i7, good graphics card, valued over $2000)
+- IT responsibilities included tracing network cables and building computer hardware
+- Wrote Linux scripts to translate company wikis from legacy format to newer web-browsable format
+- Too young to receive monetary payment, compensated with first personal laptop: high-end machine with 8GB RAM, 500GB storage, latest-gen i7, good graphics card (valued over $2000)
+- Laptop fueled countless personal programming projects over subsequent years
 - Never accessed trading algorithms (not trusted to intern), but gained exposure to high-frequency trading environment
 
 ## Technical Skills
