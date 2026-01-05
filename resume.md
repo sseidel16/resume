@@ -5,11 +5,12 @@ phone: (520) 840-5431
 location: Phoenix, AZ
 website: heaphierarch.com
 linkedin: linkedin.com/in/stephen-seidel
+github: github.com/sseidel16
 ---
 
-# Stephen Seidel
+# Stephen Seidel | Senior Software and Systems Engineer
 
-Phoenix, AZ | heaphierarch@proton.me | [heaphierarch.com](https://heaphierarch.com) | [linkedin.com/in/stephen-seidel](https://linkedin.com/in/stephen-seidel)
+Phoenix, AZ | heaphierarch@proton.me | [heaphierarch.com](https://heaphierarch.com) | [linkedin.com/in/stephen-seidel](https://linkedin.com/in/stephen-seidel) | [github.com/sseidel16](https://github.com/sseidel16)
 
 ## Summary
 
